@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+    font-family: "teddy bear", serif;
+}
+
+h2 {
+    color: orange;
+}
+
+a {
+    color: green;
+}
+
+body {
+    background-color: lightblue;
+}
+
+img {
+    width: 500px;
+    border: 5px white solid;
+    margin-left: 20px;
+}
+
+.bigtext {
+    font-size: 1.5rem;
+}
+
+a:hover {
+    color: red;
+}
+
+@font-face {
+    font-family: "teddy bear";
+    src: url("fonts/teddy-bear.ttf");
+}
